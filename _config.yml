@@ -9,7 +9,8 @@ github_username:  siddu71
 
 # Build settings
 
-theme: beautiful-jekyll-theme
+theme: minima
+
 
   
 #theme: minima

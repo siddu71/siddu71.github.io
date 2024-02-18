@@ -13,7 +13,7 @@ gem "minima", "~> 2.5"
 
 # gem "minima", "~> 2.5"
 
-gem "beautiful-jekyll-theme"
+#gem "beautiful-jekyll-theme"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
