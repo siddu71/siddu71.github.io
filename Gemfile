@@ -13,6 +13,8 @@ gem "minima", "~> 2.5"
 
 # gem "minima", "~> 2.5"
 #gem "lanyon", "~> 1.0"
+gem "jekyll-paginate"
+
 
 #gem "beautiful-jekyll-theme"
 
