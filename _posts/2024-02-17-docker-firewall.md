@@ -4,11 +4,6 @@ title: "Docker Firewall"
 date: 2024-02-17
 ---
 
-# siddu71.github.io
-
-
-
-
 # Simple Firewall for Docker
 
 This project outlines a method to manage firewall rules for Docker containers on a Linux server, utilizing `iptables` and `ipset`. It allows for specifying which IP addresses are allowed to connect to specific ports.
